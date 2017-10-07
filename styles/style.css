@@ -5,25 +5,27 @@
 
 
 h1 {
-  font-size: 60px;
+  font-size: 30px;
   text-align: center;
 }
 
 p, li {
-  font-size: 16px;  
+  font-size: 26px;  
   line-height: 2;
   letter-spacing: 1px;
+color: white;
+  text-shadow: 2px 2px 1px black;
 }
 
 
 html {
-  background-color: #9ba1a3;
+  background-color: #228B22;
 }
 
 body {
-  width: 600px;
+  width: 607px;
   margin: 0 auto;
-  background-color: #effcff;
+  background-color: #DCDCDC;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
@@ -31,8 +33,18 @@ body {
 h1 {
   margin: 0;
   padding: 20px 0;  
-  color: #00539F;
+  color: white;
   text-shadow: 3px 3px 1px black;
+}
+button{
+     background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
 
 img {
